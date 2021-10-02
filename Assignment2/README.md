@@ -1,17 +1,11 @@
-DESCRIPTION
+Evaluate the dataset of the Summer Olympics, London 2012 to:
 
-Problem Statement: Evaluate the dataset containing the GDPs of different countries to:
+Find and print the name of the country that won maximum gold medals,
 
-Find and print the name of the country with the highest GDP
+Find and print the countries who won more than 20 gold medals,
 
+Print the medal tally,
 
-Find and print the name of the country with the lowest GDP
+Print each country name with the corresponding number of gold medals,
 
-
-Print out text and input values iteratively
-
-
-Print out the entire list of the countries with their GDPs
-
-
-Print the highest GDP value, lowest GDP value, mean GDP value, standardized GDP value, and the sum of all the GDPs
+and Print each country's name with the total number of medals won.
